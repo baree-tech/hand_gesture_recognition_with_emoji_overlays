@@ -27,7 +27,7 @@ pip install opencv-python mediapipe numpy
 	1.	Place like.png and fireworks.png in the project directory.
 	2.	Run the Python script:
 
-handgesture.ipynb
+hand_gesture_recognition.ipynb
 
 
 	3.	To use a video file instead of a webcam, modify this line:
@@ -36,7 +36,7 @@ cap = cv2.VideoCapture('your_video.mp4')
 
 
 **File Structure**
-	•	handgesture.ipynb: Main code file.
+	•	hand_gesture_recognition.ipynb: Main code file.
 	•	like.png: Emoji image for thumbs-up.
 	•	fireworks.png: Fireworks overlay image.
 	•	my_gesture_video.mp4: Output video (if enabled).
