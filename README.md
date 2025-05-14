@@ -19,7 +19,7 @@ This project implements real-time hand gesture recognition using MediaPipe and O
 
 **Installation**
 
-```bash
+bash
 pip install opencv-python mediapipe numpy
 
 **Usage**
@@ -27,7 +27,7 @@ pip install opencv-python mediapipe numpy
 	1.	Place like.png and fireworks.png in the project directory.
 	2.	Run the Python script:
 
-python hand_gesture_recognition.py
+handgesture.ipynb
 
 
 	3.	To use a video file instead of a webcam, modify this line:
